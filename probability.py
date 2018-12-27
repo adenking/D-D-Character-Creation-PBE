@@ -1,4 +1,5 @@
 '''
+credit to https://www.patreon.com/pakstrax for the PDF
 https://www.reddit.com/r/dndnext/comments/9e52vk/300_ways_to_roll_for_stats_from_up_to_op/
 this is a calculator for dice rolls not on this list
 use anydice to get a csv chart with your desired roll and put it in a csv and then run this
